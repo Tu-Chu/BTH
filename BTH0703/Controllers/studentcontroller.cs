@@ -1,4 +1,7 @@
-namespace BTH0703
+using System.Diagnostics;
+using Microsoft.AspNetCore.Mvc;
+using BTH0703.Models;
+namespace BTH0703.Controllers;
  class StudentController : Controller
 {
 
